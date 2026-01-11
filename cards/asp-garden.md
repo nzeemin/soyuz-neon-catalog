@@ -1,4 +1,9 @@
-
+---
+title: "Garden"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Garden".
 
 Авторы:

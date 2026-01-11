@@ -1,4 +1,9 @@
-
+---
+title: "Минное поле"
+author:
+year:
+categories: game, aspect
+---
 Игра "Минное поле" под АСПЕКТ.
 
 ### Скриншоты

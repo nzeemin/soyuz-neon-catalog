@@ -1,4 +1,9 @@
-
+---
+title: "Калькулятор"
+author: asp
+year: 1993
+categories: utility, aspect
+---
 Калькулятор под АСПЕКТ.
 
 Авторы: группа А.С.П.

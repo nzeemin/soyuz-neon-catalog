@@ -1,4 +1,9 @@
-
+---
+title: "Caves of Noraf"
+author: sandro, blairecas
+year: 2024
+categories: game
+---
 Игра "Caves of Noraf".
 
 Авторы:

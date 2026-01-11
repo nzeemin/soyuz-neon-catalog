@@ -1,4 +1,9 @@
-
+---
+title: "Diamonds"
+author: asp
+year: 199?
+categories: game, aspect
+---
 Игра "Diamonds" под АСПЕКТ.
 
 Авторы: группа А.С.П.

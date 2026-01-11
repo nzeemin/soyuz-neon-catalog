@@ -1,4 +1,9 @@
-
+---
+title: "Forth"
+author: mgusew
+year: 1993
+categories: proglang
+---
 Язык программирования ФОРТ.
 
 Автор: Михаил Гусев

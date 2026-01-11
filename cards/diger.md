@@ -1,5 +1,10 @@
-
-Игра "Diger" ("Землегрыз").
+---
+title: "Digger"
+author: alex_k
+year:
+categories: game
+---
+Игра "Digger" ("Землегрыз").
 
 Авторы:
 * Неизвестный автор - игра для КГД

@@ -1,7 +1,12 @@
-
+---
+title: "Boulder Dash"
+author: blairecas
+year: 2023
+categories: game
+---
 Игра "Boulder Dash".
 
-Авторы: BlaireCas, 2023 год
+Автор: BlaireCas, 2023 год
 
 ### Ссылки
 

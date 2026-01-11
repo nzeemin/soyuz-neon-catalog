@@ -1,4 +1,9 @@
-
+---
+title: "Castle"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Castle".
 
 Авторы:

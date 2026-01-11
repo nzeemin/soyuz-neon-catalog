@@ -1,4 +1,9 @@
-
+---
+title: "Land"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Land".
 
 Авторы:

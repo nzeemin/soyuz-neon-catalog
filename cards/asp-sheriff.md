@@ -1,4 +1,9 @@
-
+---
+title: "Sheriff"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Sheriff".
 
 Авторы:

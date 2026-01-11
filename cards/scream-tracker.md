@@ -1,4 +1,9 @@
-
+---
+title: "Scream Tracker Melody player"
+author: rdc
+year: 1993-1994
+categories: game
+---
 **Scream Tracker Melody** - программа воспроизведения музыки.
 
 Автор: Денис Сотченко (RDC), 1993-1994

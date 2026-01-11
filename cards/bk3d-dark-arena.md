@@ -1,4 +1,9 @@
-
+---
+title: "BK3D Dark Arena"
+author: adw2ru, blairecas
+year: 2024
+categories: game
+---
 Игра "BK3D Dark Arena".
 
 Авторы:

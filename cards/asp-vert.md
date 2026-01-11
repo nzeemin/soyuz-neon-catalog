@@ -1,4 +1,9 @@
-
+---
+title: "Military Marathon"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Military Marathon".
 
 Авторы:

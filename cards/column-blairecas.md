@@ -1,7 +1,12 @@
-
+---
+title: "Column"
+author: blairecas
+year: 2023
+categories: game
+---
 Игра "Column".
 
-Авторы: BlaireCas, 2023 год
+Автор: BlaireCas, 2023 год
 
 ### Ссылки
 

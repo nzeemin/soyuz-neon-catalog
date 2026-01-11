@@ -1,4 +1,9 @@
-
+---
+title: "Кот-рыболов"
+author: asp, alex_k
+year:
+categories: game
+---
 Игра "Кот-рыболов".
 
 Авторы:

@@ -1,4 +1,9 @@
-
+---
+title: "Remote Access"
+author: mgusew
+year: 1994
+categories: application
+---
 Программа для удалённого доступа.
 
 Автор: Михаил Гусев

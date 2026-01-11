@@ -1,4 +1,9 @@
-
+---
+title: "ZxGold!"
+author: msapronov
+year: 1993-1994
+categories: application
+---
 Программа для работы с модемом.
 
 Автор: Максим Сапронов

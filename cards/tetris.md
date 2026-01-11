@@ -1,4 +1,9 @@
-
+---
+title: "Tetris"
+author:
+year:
+categories: game
+---
 Игра "Тетрис".
 
 Цветной игровой экран в виде окна.
