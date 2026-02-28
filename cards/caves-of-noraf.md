@@ -7,8 +7,15 @@ categories: game
 Игра "Caves of Noraf".
 
 Авторы:
-* Александр Тишин (Sandro) - для БК
+* Александр Тишин (Sandro) - для БК, 2023 год
 * BlaireCas - порт на Союз-Неон, 2024 год
+
+### Файлы
+```
+Filename  Blocks     Bytes
+---------- -----  --------
+CAVES .SAV    32     16384
+```
 
 ### Ссылки
 

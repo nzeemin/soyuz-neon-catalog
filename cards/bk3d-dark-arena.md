@@ -10,6 +10,13 @@ categories: game
 * Дмитрий Апраксин - для БК
 * BlaireCas - порт на Союз-Неон, 2024 год
 
+### Файлы
+```
+Filename  Blocks     Bytes
+---------- -----  --------
+BK3DA .SAV    45     23040
+```
+
 ### Ссылки
 
 * [blairecas/bk3da_neon](https://github.com/blairecas/bk3da_neon/) - репо с исходным кодом, там же в папке release выложен образ диска

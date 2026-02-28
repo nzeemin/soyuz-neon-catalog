@@ -18,7 +18,12 @@ categories: presentation
 
 ### Скриншоты
 
-![](../img/demo-neon/2023-10-11_16-17-16.jpg)
+![](../img/demo-neon/demo-neon-1.png)
+![](../img/demo-neon/demo-neon-2.png)
+![](../img/demo-neon/demo-neon-3.png)
+![](../img/demo-neon/demo-neon-4.png)
+![](../img/demo-neon/demo-neon-5.png)
 ![](../img/demo-neon/2024-01-05_21-41-10.jpg)
-![](../img/demo-neon/2024-03-09_23-45-12.jpg)
-![](../img/demo-neon/2024-04-03_12-29-29.jpg)
+![](../img/demo-neon/2023-10-11_16-17-16.jpg)
+![](../img/demo-neon/demo-neon-12.png)
+![](../img/demo-neon/demo-neon-15.png)

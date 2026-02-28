@@ -33,7 +33,8 @@ categories: system, aspect
  * Запустить АСПЕКТ `@asp` <kbd>Enter</kbd>, и дождаться его загрузки, появится командная строка RT-11 в виде точки
 
 ### Скриншоты
-
+![](../img/aspect/aspect-booted.png)
+![](../img/aspect/aspect-dir.png)
 ![](../img/aspect/2023-01-14_11-04-49.jpg)
 ![](../img/aspect/2023-01-14_12-34-14.jpg)
 ![](../img/aspect/2024-05-29_01-29-04.jpg)
